@@ -7,7 +7,7 @@ The repository contains interview questions for Java Core version 8+
 
 | No. | Questions                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [What are the benefits of String Immutability in Java?](https://www.youtube.com/shorts/no-LkMTDemI)                                                              |
+| 1   | [What are the benefits of String Immutability in Java?](https://www.youtube.com/watch?v=no-LkMTDemI&list=PLvTr1lF92uc1ESfG-86Z5LIqzt_uxdC4Z&index=1)       |
 | 2   | [What is the difference between String Buffer and String Builder?](https://www.youtube.com/watch?v=OCyN3zYRO_o&list=PLvTr1lF92uc1ESfG-86Z5LIqzt_uxdC4Z&index=2)  |
 | 3   | [What is String Interning?](https://www.youtube.com/watch?v=1P6ncTNHwYI&list=PLvTr1lF92uc1ESfG-86Z5LIqzt_uxdC4Z&index=3)                                         |
 | 4   | [What is Try with Resources?](https://www.youtube.com/watch?v=Zqo3Z2oFRxA&list=PLvTr1lF92uc1ESfG-86Z5LIqzt_uxdC4Z&index=4)                                       |
